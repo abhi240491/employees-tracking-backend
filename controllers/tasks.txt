@@ -1,0 +1,5 @@
+1. Create mongoDb database,
+2. Add middlewares for validation and Json token.
+3. Connect wtih the frontend
+4. Raise a PR,
+5. Provide and overview.
